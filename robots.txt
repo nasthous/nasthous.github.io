@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nasthous.github.io/sitemap.html.gz
+Sitemap: https://nasthous.github.io/app/sitemap.html.gz
+Sitemap: https://nasthous.github.io/assets/sitemap.html.gz
+Sitemap: https://nasthous.github.io/css/sitemap.html.gz
+Sitemap: https://nasthous.github.io/includes/sitemap.html.gz
+Sitemap: https://nasthous.github.io/item/sitemap.html.gz
+Sitemap: https://nasthous.github.io/src/sitemap.html.gz
